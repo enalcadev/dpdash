@@ -97,8 +97,14 @@ At present, we officially aim to support the last two versions of the following 
 ## Authors
 
 - [Enrique Albert](https://enalcadev.com)
+- [Oriol Lamelas](NPD)
+- [Maksim Slesaronak](NPD)
+- [Angel Martinez](NPD)
+- [Jonathan Boisset](NPD)
+- [Ferran Torrent](NPD)
 
-## THANKS
+
+## Thanks
 
 - [Julian Cataldo](https://twitter.com/Julian_Cataldo)
 - [Zoltán Szőgyényi](https://twitter.com/zoltanszogyenyi)
