@@ -24,9 +24,6 @@ pnpm-debug.log*
 # misc.
 .dev*
 
-# config
-/package-lock.json
-
 # amplify
 .amplify
 amplify_outputs*
