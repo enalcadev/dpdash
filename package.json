@@ -1,6 +1,6 @@
 {
-	"name": "flowbite-astro-admin-dashboard",
-	"version": "1.0.2",
+	"name": "dpdash",
+	"version": "0.0.1",
 	"private": "true",
 	"description": "A free and open-source admin dashboard template built with Tailwind CSS, Flowbite and Astro",
 	"keywords": [
@@ -17,15 +17,18 @@
 		"astro-template",
 		"javascript"
 	],
-	"homepage": "https://flowbite.com",
-	"bugs": "https://github.com/themesberg/flowbite-astro-admin-dashboard/issues",
-	"repository": "https://github.com/themesberg/flowbite-astro-admin-dashboard.git",
-	"license": "MIT",
-	"author": "Bergside Inc.",
+	"homepage": "https://enalcadev.com",
+	"bugs": "https://github.com/enalcadev/dpdash/issues",
+	"repository": "https://github.com/enalcadev/dpdash.git",
+	"license": "GNU GENERAL PUBLIC LICENSE",
+	"author": "Team 1",
 	"contributors": [
-		"Zoltán Szőgyényi <https://twitter.com/zoltanszogyenyi>",
-		"Robert Tanislav <https://twitter.com/roberttanislav>",
-		"Julian Cataldo <https://twitter.com/Julian_Cataldo>"
+		"Enrique Albert <https://enalcadev.com>",
+		"Oriol Lamelas",
+		"Maksim Slesaronak",
+		"Ferran Torrent",
+		"Angel Martinez",
+		"Jonathan Boisset"
 	],
 	"type": "module",
 	"scripts": {
