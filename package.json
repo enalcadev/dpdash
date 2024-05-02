@@ -45,6 +45,7 @@
 		"@faker-js/faker": "^7.6.0",
 		"apexcharts": "^3.37.2",
 		"astro": "^2.0.4",
+		"astro-aws-amplify": "^0.1.0",
 		"aws-amplify": "^6.0.30",
 		"flowbite": "^2.1.1",
 		"flowbite-typography": "^1.0.3",
