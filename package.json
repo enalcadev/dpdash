@@ -36,7 +36,8 @@
 		"build": "astro build",
 		"dev": "astro dev",
 		"preview": "astro preview",
-		"start": "astro dev"
+		"start": "astro dev",
+		"check": "astro check"
 	},
 	"dependencies": {
 		"@astrojs/sitemap": "^1.1.0",
