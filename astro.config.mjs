@@ -10,7 +10,7 @@ export default defineConfig({
 	site: process.env.CI
 		? 'https://enalcadev.github.io'
 		: `http://localhost:${DEV_PORT}`,
-	base: process.env.CI ? '/dpdash' : undefined,
+	base: process.env.CI ? '' : undefined,
 
 	// output: 'server',
 
