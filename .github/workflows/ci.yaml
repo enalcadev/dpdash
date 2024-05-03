@@ -11,6 +11,8 @@ on:
 env:
   CI: true
   FORCE_COLOR: true
+  BRANCH: develop
+  SERVER: d17u5xdglsyhkp
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
